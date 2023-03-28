@@ -1,7 +1,0 @@
-{
-  "plugins": ["jest"],
-  "extends": ["../.eslintrc.js"],
-  "env": {
-    "jest/globals": true
-  }
-}
