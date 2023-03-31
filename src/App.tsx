@@ -6,7 +6,7 @@ export function App() {
 
 	return (
 		<div className="App">
-			<h3>🌱⚛️ Create React App Codely template example</h3>
+			<h3>⚡⚛️ Vite React Best Practices Template (by Codely)</h3>
 			<h2>Current users</h2>
 
 			{users.map((user) => (
