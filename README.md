@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/CodelyTV/vite-react_best_practices-template/actions/workflows/ci.yml"><img src="https://github.com/CodelyTV/vite-react_best_practices-template/actions/workflows/ci.yml/badge.svg" alt="Build status"/></a>
+    <a href="https://github.com/CodelyTV/vite-react_best_practices-template/actions/workflows/tests.yml"><img src="https://github.com/CodelyTV/vite-react_best_practices-template/actions/workflows/tests.yml/badge.svg" alt="Build status"/></a>
     <a href="https://github.com/CodelyTV"><img src="https://img.shields.io/badge/CodelyTV-OS-green.svg?style=flat-square" alt="Codely Open Source"/></a>
     <a href="https://pro.codely.com"><img src="https://img.shields.io/badge/CodelyTV-PRO-black.svg?style=flat-square" alt="Codely Pro Courses"/></a>
 </p>
