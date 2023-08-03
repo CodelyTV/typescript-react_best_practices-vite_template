@@ -24,7 +24,7 @@
   "include": [
     "src",
     "tests",
-    "jest.config.js",
+    "vitest.config.ts",
     "cypress.config.ts",
     "vite.config.ts"
   ]

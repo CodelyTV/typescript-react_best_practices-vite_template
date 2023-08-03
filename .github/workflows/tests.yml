@@ -18,7 +18,7 @@ jobs:
         run: npm install
 
       - name: Test
-        run: npx jest --config=jest.config.js
+        run: npx vitest run --config=vitest.config.ts
   e2e:
     runs-on: ubuntu-latest
 
